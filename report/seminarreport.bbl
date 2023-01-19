@@ -1,0 +1,779 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{anyt/global//global/global}
+  \entry{kurkova_location_2018}{incollection}{}
+    \name{author}{3}{}{%
+      {{hash=AN}{%
+         family={Azizi},
+         familyi={A\bibinitperiod},
+         given={Niloofar},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=FH}{%
+         family={Farazi},
+         familyi={F\bibinitperiod},
+         given={Hafez},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=BS}{%
+         family={Behnke},
+         familyi={B\bibinitperiod},
+         given={Sven},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \name{editor}{5}{}{%
+      {{hash=KV}{%
+         family={Kůrková},
+         familyi={K\bibinitperiod},
+         given={Věra},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=MY}{%
+         family={Manolopoulos},
+         familyi={M\bibinitperiod},
+         given={Yannis},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=HB}{%
+         family={Hammer},
+         familyi={H\bibinitperiod},
+         given={Barbara},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=IL}{%
+         family={Iliadis},
+         familyi={I\bibinitperiod},
+         given={Lazaros},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=MI}{%
+         family={Maglogiannis},
+         familyi={M\bibinitperiod},
+         given={Ilias},
+         giveni={I\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \list{publisher}{1}{%
+      {Springer International Publishing}%
+    }
+    \strng{namehash}{AN+1}
+    \strng{fullhash}{ANFHBS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{AFB18}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{abstract}{%
+    Deep convolutional neural networks are used to address many computer vision
+  problems, including video prediction. The task of video prediction requires
+  analyzing the video frames, temporally and spatially, and constructing a
+  model of how the environment evolves. Convolutional neural networks are
+  spatially invariant, though, which prevents them from modeling
+  location-dependent patterns. In this work, the authors propose
+  location-biased convolutional layers to overcome this limitation. The
+  eﬀectiveness of location bias is evaluated on two architectures: Video
+  Ladder Network (VLN) and Convolutional Predictive Gating Pyramid (Conv-PGP).
+  The results indicate that encoding location-dependent features is crucial for
+  the task of video prediction. Our proposed methods signiﬁcantly outperform
+  spatially invariant models.%
+    }
+    \field{booktitle}{Artificial {Neural} {Networks} and {Machine} {Learning}
+  – {ICANN} 2018}
+    \verb{doi}
+    \verb 10.1007/978-3-030-01424-7_62
+    \endverb
+    \field{isbn}{978-3-030-01423-0 978-3-030-01424-7}
+    \field{note}{Series Title: Lecture Notes in Computer Science}
+    \field{pages}{630\bibrangedash 638}
+    \field{title}{Location {Dependency} in {Video} {Prediction}}
+    \verb{url}
+    \verb http://link.springer.com/10.1007/978-3-030-01424-7_62
+    \endverb
+    \field{volume}{11141}
+    \list{location}{1}{%
+      {Cham}%
+    }
+    \verb{file}
+    \verb Azizi et al. - 2018 - Location Dependency in Video Prediction.pdf:/ho
+    \verb me/knork/Zotero/storage/MRKFJPIH/Azizi et al. - 2018 - Location Depen
+    \verb dency in Video Prediction.pdf:application/pdf
+    \endverb
+    \field{year}{2018}
+    \field{urlday}{08}
+    \field{urlmonth}{10}
+    \field{urlyear}{2020}
+  \endentry
+
+  \entry{aismartz_cnn_2019}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=A}{%
+         family={AISmartz},
+         familyi={A\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{A1}
+    \strng{fullhash}{A1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{AIS19}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{abstract}{%
+    CNN Architectures (1998-2019) - Let's discuss the most important CNN's used
+  in complex applications like deep learning models \& how they have evolved
+  over time.%
+    }
+    \field{title}{{CNN} {Architectures} {Timeline} (1998-2019)}
+    \verb{url}
+    \verb https://www.aismartz.com/blog/cnn-architectures/
+    \endverb
+    \verb{file}
+    \verb Snapshot:/home/knork/Zotero/storage/K9NHRNXS/cnn-architectures.html:t
+    \verb ext/html
+    \endverb
+    \field{month}{10}
+    \field{year}{2019}
+    \field{urlday}{08}
+    \field{urlmonth}{10}
+    \field{urlyear}{2020}
+  \endentry
+
+  \entry{cricri_video_2016}{article}{}
+    \name{author}{5}{}{%
+      {{hash=CF}{%
+         family={Cricri},
+         familyi={C\bibinitperiod},
+         given={Francesco},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=NX}{%
+         family={Ni},
+         familyi={N\bibinitperiod},
+         given={Xingyang},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=HM}{%
+         family={Honkala},
+         familyi={H\bibinitperiod},
+         given={Mikko},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=AE}{%
+         family={Aksu},
+         familyi={A\bibinitperiod},
+         given={Emre},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=GM}{%
+         family={Gabbouj},
+         familyi={G\bibinitperiod},
+         given={Moncef},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \keyw{Computer Science - Computer Vision and Pattern Recognition, Computer
+  Science - Machine Learning, Statistics - Machine Learning}
+    \strng{namehash}{CF+1}
+    \strng{fullhash}{CFNXHMAEGM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Cri+16}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{abstract}{%
+    We present the Video Ladder Network (VLN) for efﬁciently generating
+  future video frames. VLN is a neural encoder-decoder model augmented at all
+  layers by both recurrent and feedforward lateral connections. At each layer,
+  these connections form a lateral recurrent residual block, where the
+  feedforward connection represents a skip connection and the recurrent
+  connection represents the residual. Thanks to the recurrent connections, the
+  decoder can exploit temporal summaries generated from all layers of the
+  encoder. This way, the top layer is relieved from the pressure of modeling
+  lower-level spatial and temporal details. Furthermore, we extend the basic
+  version of VLN to incorporate ResNet-style residual blocks in the encoder and
+  decoder, which help improving the prediction results. VLN is trained in
+  selfsupervised regime on the Moving MNIST dataset, achieving competitive
+  results while having very simple structure and providing fast inference.%
+    }
+    \field{note}{arXiv: 1612.01756}
+    \field{title}{Video {Ladder} {Networks}}
+    \verb{url}
+    \verb http://arxiv.org/abs/1612.01756
+    \endverb
+    \verb{file}
+    \verb Cricri et al. - 2016 - Video Ladder Networks.pdf:/home/knork/Zotero/s
+    \verb torage/DHPMG2S3/Cricri et al. - 2016 - Video Ladder Networks.pdf:appl
+    \verb ication/pdf
+    \endverb
+    \field{journaltitle}{arXiv:1612.01756 [cs, stat]}
+    \field{annotation}{%
+    Comment: This version extends the paper accepted at the NIPS 2016 workshop
+  on ML for Spatiotemporal Forecasting, with more details and more experimental
+  results%
+    }
+    \field{month}{12}
+    \field{year}{2016}
+    \field{urlday}{08}
+    \field{urlmonth}{10}
+    \field{urlyear}{2020}
+  \endentry
+
+  \entry{he_deep_2015}{article}{}
+    \name{author}{4}{}{%
+      {{hash=HK}{%
+         family={He},
+         familyi={H\bibinitperiod},
+         given={Kaiming},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=ZX}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Xiangyu},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=RS}{%
+         family={Ren},
+         familyi={R\bibinitperiod},
+         given={Shaoqing},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Sun},
+         familyi={S\bibinitperiod},
+         given={Jian},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \keyw{Computer Science - Computer Vision and Pattern Recognition}
+    \strng{namehash}{HK+1}
+    \strng{fullhash}{HKZXRSSJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{He+15}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{abstract}{%
+    Deeper neural networks are more difﬁcult to train. We present a residual
+  learning framework to ease the training of networks that are substantially
+  deeper than those used previously. We explicitly reformulate the layers as
+  learning residual functions with reference to the layer inputs, instead of
+  learning unreferenced functions. We provide comprehensive empirical evidence
+  showing that these residual networks are easier to optimize, and can gain
+  accuracy from considerably increased depth. On the ImageNet dataset we
+  evaluate residual nets with a depth of up to 152 layers—8× deeper than VGG
+  nets [41] but still having lower complexity. An ensemble of these residual
+  nets achieves 3.57\% error on the ImageNet test set. This result won the 1st
+  place on the ILSVRC 2015 classiﬁcation task. We also present analysis on
+  CIFAR-10 with 100 and 1000 layers.%
+    }
+    \field{note}{arXiv: 1512.03385}
+    \field{title}{Deep {Residual} {Learning} for {Image} {Recognition}}
+    \verb{url}
+    \verb http://arxiv.org/abs/1512.03385
+    \endverb
+    \verb{file}
+    \verb He et al. - 2015 - Deep Residual Learning for Image Recognition.pdf:/
+    \verb home/knork/Zotero/storage/7G5JCX5T/He et al. - 2015 - Deep Residual L
+    \verb earning for Image Recognition.pdf:application/pdf
+    \endverb
+    \field{journaltitle}{arXiv:1512.03385 [cs]}
+    \field{annotation}{%
+    Comment: Tech report%
+    }
+    \field{month}{12}
+    \field{year}{2015}
+    \field{urlday}{08}
+    \field{urlmonth}{10}
+    \field{urlyear}{2020}
+  \endentry
+
+  \entry{kingma_adam_2014}{article}{}
+    \name{author}{2}{}{%
+      {{hash=KDP}{%
+         family={Kingma},
+         familyi={K\bibinitperiod},
+         given={Diederik\bibnamedelima P.},
+         giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=BJ}{%
+         family={Ba},
+         familyi={B\bibinitperiod},
+         given={Jimmy},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \keyw{Computer Science - Machine Learning}
+    \strng{namehash}{KDPBJ1}
+    \strng{fullhash}{KDPBJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelalpha}{KB14}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{abstract}{%
+    We introduce Adam, an algorithm for ﬁrst-order gradient-based
+  optimization of stochastic objective functions, based on adaptive estimates
+  of lower-order moments. The method is straightforward to implement, is
+  computationally efﬁcient, has little memory requirements, is invariant to
+  diagonal rescaling of the gradients, and is well suited for problems that are
+  large in terms of data and/or parameters. The method is also appropriate for
+  non-stationary objectives and problems with very noisy and/or sparse
+  gradients. The hyper-parameters have intuitive interpretations and typically
+  require little tuning. Some connections to related algorithms, on which Adam
+  was inspired, are discussed. We also analyze the theoretical convergence
+  properties of the algorithm and provide a regret bound on the convergence
+  rate that is comparable to the best known results under the online convex
+  optimization framework. Empirical results demonstrate that Adam works well in
+  practice and compares favorably to other stochastic optimization methods.
+  Finally, we discuss AdaMax, a variant of Adam based on the inﬁnity norm.%
+    }
+    \field{note}{arXiv: 1412.6980}
+    \field{shorttitle}{Adam}
+    \field{title}{Adam: {A} {Method} for {Stochastic} {Optimization}}
+    \verb{url}
+    \verb http://arxiv.org/abs/1412.6980
+    \endverb
+    \verb{file}
+    \verb Kingma and Ba - 2017 - Adam A Method for Stochastic Optimization.pdf:
+    \verb /home/knork/Zotero/storage/JK3YNJSP/Kingma and Ba - 2017 - Adam A Met
+    \verb hod for Stochastic Optimization.pdf:application/pdf
+    \endverb
+    \field{journaltitle}{arXiv:1412.6980 [cs]}
+    \field{annotation}{%
+    Comment: Published as a conference paper at the 3rd International
+  Conference for Learning Representations, San Diego, 2015%
+    }
+    \field{month}{01}
+    \field{year}{2014}
+    \field{urlday}{08}
+    \field{urlmonth}{10}
+    \field{urlyear}{2020}
+  \endentry
+
+  \entry{krizhevsky_imagenet_2012}{incollection}{}
+    \name{author}{3}{}{%
+      {{hash=KA}{%
+         family={Krizhevsky},
+         familyi={K\bibinitperiod},
+         given={Alex},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=SI}{%
+         family={Sutskever},
+         familyi={S\bibinitperiod},
+         given={Ilya},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=HGE}{%
+         family={Hinton},
+         familyi={H\bibinitperiod},
+         given={Geoffrey\bibnamedelima E},
+         giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \name{editor}{4}{}{%
+      {{hash=PF}{%
+         family={Pereira},
+         familyi={P\bibinitperiod},
+         given={F.},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=BCJC}{%
+         family={Burges},
+         familyi={B\bibinitperiod},
+         given={C.\bibnamedelima J.\bibnamedelima C.},
+         giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim
+  C\bibinitperiod},
+      }}%
+      {{hash=BL}{%
+         family={Bottou},
+         familyi={B\bibinitperiod},
+         given={L.},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=WKQ}{%
+         family={Weinberger},
+         familyi={W\bibinitperiod},
+         given={K.\bibnamedelima Q.},
+         giveni={K\bibinitperiod\bibinitdelim Q\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Curran Associates, Inc.}%
+    }
+    \strng{namehash}{KA+1}
+    \strng{fullhash}{KASIHGE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{KSH12}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{booktitle}{Advances in {Neural} {Information} {Processing} {Systems}
+  25}
+    \field{pages}{1097\bibrangedash 1105}
+    \field{title}{{ImageNet} {Classification} with {Deep} {Convolutional}
+  {Neural} {Networks}}
+    \verb{url}
+    \verb http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-co
+    \verb nvolutional-neural-networks.pdf
+    \endverb
+    \verb{file}
+    \verb Krizhevsky et al. - 2012 - ImageNet Classification with Deep Convolut
+    \verb ional Ne.pdf:/home/knork/Zotero/storage/FWAB28JI/Krizhevsky et al. -
+    \verb 2012 - ImageNet Classification with Deep Convolutional Ne.pdf:applica
+    \verb tion/pdf
+    \endverb
+    \field{year}{2012}
+  \endentry
+
+  \entry{shi_real-time_2016}{article}{}
+    \name{author}{8}{}{%
+      {{hash=SW}{%
+         family={Shi},
+         familyi={S\bibinitperiod},
+         given={Wenzhe},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=CJ}{%
+         family={Caballero},
+         familyi={C\bibinitperiod},
+         given={Jose},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=HF}{%
+         family={Huszár},
+         familyi={H\bibinitperiod},
+         given={Ferenc},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=TJ}{%
+         family={Totz},
+         familyi={T\bibinitperiod},
+         given={Johannes},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=AAP}{%
+         family={Aitken},
+         familyi={A\bibinitperiod},
+         given={Andrew\bibnamedelima P.},
+         giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=BR}{%
+         family={Bishop},
+         familyi={B\bibinitperiod},
+         given={Rob},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=RD}{%
+         family={Rueckert},
+         familyi={R\bibinitperiod},
+         given={Daniel},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=WZ}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Zehan},
+         giveni={Z\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \keyw{Computer Science - Computer Vision and Pattern Recognition,
+  Statistics - Machine Learning}
+    \strng{namehash}{SW+1}
+    \strng{fullhash}{SWCJHFTJAAPBRRDWZ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Shi+16}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{abstract}{%
+    Recently, several models based on deep neural networks have achieved great
+  success in terms of both reconstruction accuracy and computational
+  performance for single image super-resolution. In these methods, the low
+  resolution (LR) input image is upscaled to the high resolution (HR) space
+  using a single ﬁlter, commonly bicubic interpolation, before
+  reconstruction. This means that the super-resolution (SR) operation is
+  performed in HR space. We demonstrate that this is sub-optimal and adds
+  computational complexity. In this paper, we present the ﬁrst convolutional
+  neural network (CNN) capable of real-time SR of 1080p videos on a single K2
+  GPU. To achieve this, we propose a novel CNN architecture where the feature
+  maps are extracted in the LR space. In addition, we introduce an efﬁcient
+  sub-pixel convolution layer which learns an array of upscaling ﬁlters to
+  upscale the ﬁnal LR feature maps into the HR output. By doing so, we
+  effectively replace the handcrafted bicubic ﬁlter in the SR pipeline with
+  more complex upscaling ﬁlters speciﬁcally trained for each feature map,
+  whilst also reducing the computational complexity of the overall SR
+  operation. We evaluate the proposed approach using images and videos from
+  publicly available datasets and show that it performs signiﬁcantly better
+  (+0.15dB on Images and +0.39dB on Videos) and is an order of magnitude faster
+  than previous CNN-based methods.%
+    }
+    \field{note}{arXiv: 1609.05158}
+    \field{title}{Real-{Time} {Single} {Image} and {Video} {Super}-{Resolution}
+  {Using} an {Efficient} {Sub}-{Pixel} {Convolutional} {Neural} {Network}}
+    \verb{url}
+    \verb http://arxiv.org/abs/1609.05158
+    \endverb
+    \verb{file}
+    \verb Shi et al. - 2016 - Real-Time Single Image and Video Super-Resolution
+    \verb  .pdf:/home/knork/Zotero/storage/E9S73YC9/Shi et al. - 2016 - Real-Ti
+    \verb me Single Image and Video Super-Resolution .pdf:application/pdf
+    \endverb
+    \field{journaltitle}{arXiv:1609.05158 [cs, stat]}
+    \field{annotation}{%
+    Comment: CVPR 2016 paper with updated affiliations and supplemental
+  material, fixed typo in equation 4%
+    }
+    \field{month}{09}
+    \field{year}{2016}
+    \field{urlday}{08}
+    \field{urlmonth}{10}
+    \field{urlyear}{2020}
+  \endentry
+
+  \entry{siam_convolutional_2016}{article}{}
+    \name{author}{4}{}{%
+      {{hash=SM}{%
+         family={Siam},
+         familyi={S\bibinitperiod},
+         given={Mennatullah},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=VS}{%
+         family={Valipour},
+         familyi={V\bibinitperiod},
+         given={Sepehr},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=JM}{%
+         family={Jagersand},
+         familyi={J\bibinitperiod},
+         given={Martin},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=RN}{%
+         family={Ray},
+         familyi={R\bibinitperiod},
+         given={Nilanjan},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \keyw{Computer Science - Computer Vision and Pattern Recognition}
+    \strng{namehash}{SM+1}
+    \strng{fullhash}{SMVSJMRN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Sia+16}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{abstract}{%
+    Semantic segmentation has recently witnessed major progress, where fully
+  convolutional neural networks have shown to perform well. However, most of
+  the previous work focused on improving single image segmentation. To our
+  knowledge, no prior work has made use of temporal video information in a
+  recurrent network. In this paper, we introduce a novel approach to implicitly
+  utilize temporal data in videos for online semantic segmentation. The method
+  relies on a fully convolutional network that is embedded into a gated
+  recurrent architecture. This design receives a sequence of consecutive video
+  frames and outputs the segmentation of the last frame. Convolutional gated
+  recurrent networks are used for the recurrent part to preserve spatial
+  connectivities in the image. Our proposed method can be applied in both
+  online and batch segmentation. This architecture is tested for both binary
+  and semantic video segmentation tasks. Experiments are conducted on the
+  recent benchmarks in SegTrack V2, Davis, CityScapes, and Synthia. Using
+  recurrent fully convolutional networks improved the baseline network
+  performance in all of our experiments. Namely, 5\% and 3\% improvement of
+  F-measure in SegTrack2 and Davis respectively, 5.7\% improvement in mean IoU
+  in Synthia and 3.5\% improvement in categorical mean IoU in CityScapes. The
+  performance of the RFCN network depends on its baseline fully convolutional
+  network. Thus RFCN architecture can be seen as a method to improve its
+  baseline segmentation network by exploiting spatiotemporal information in
+  videos.%
+    }
+    \field{note}{arXiv: 1611.05435}
+    \field{title}{Convolutional {Gated} {Recurrent} {Networks} for {Video}
+  {Segmentation}}
+    \verb{url}
+    \verb http://arxiv.org/abs/1611.05435
+    \endverb
+    \verb{file}
+    \verb Siam et al. - 2016 - Convolutional Gated Recurrent Networks for Video
+    \verb  S.pdf:/home/knork/Zotero/storage/HEBTZ5XK/Siam et al. - 2016 - Convo
+    \verb lutional Gated Recurrent Networks for Video S.pdf:application/pdf
+    \endverb
+    \field{journaltitle}{arXiv:1611.05435 [cs]}
+    \field{annotation}{%
+    Comment: arXiv admin note: text overlap with arXiv:1606.00487%
+    }
+    \field{month}{11}
+    \field{year}{2016}
+    \field{urlday}{08}
+    \field{urlmonth}{10}
+    \field{urlyear}{2020}
+  \endentry
+
+  \entry{tan_survey_2018}{article}{}
+    \name{author}{6}{}{%
+      {{hash=TC}{%
+         family={Tan},
+         familyi={T\bibinitperiod},
+         given={Chuanqi},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=SF}{%
+         family={Sun},
+         familyi={S\bibinitperiod},
+         given={Fuchun},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=KT}{%
+         family={Kong},
+         familyi={K\bibinitperiod},
+         given={Tao},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=ZW}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Wenchang},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=YC}{%
+         family={Yang},
+         familyi={Y\bibinitperiod},
+         given={Chao},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=LC}{%
+         family={Liu},
+         familyi={L\bibinitperiod},
+         given={Chunfang},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \keyw{Computer Science - Machine Learning, Statistics - Machine Learning}
+    \strng{namehash}{TC+1}
+    \strng{fullhash}{TCSFKTZWYCLC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Tan+18}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{abstract}{%
+    As a new classiﬁcation platform, deep learning has recently received
+  increasing attention from researchers and has been successfully applied to
+  many domains. In some domains, like bioinformatics and robotics, it is very
+  diﬃcult to construct a large-scale well-annotated dataset due to the
+  expense of data acquisition and costly annotation, which limits its
+  development. Transfer learning relaxes the hypothesis that the training data
+  must be independent and identically distributed (i.i.d.) with the test data,
+  which motivates us to use transfer learning to solve the problem of
+  insuﬃcient training data. This survey focuses on reviewing the current
+  researches of transfer learning by using deep neural network and its
+  applications. We deﬁned deep transfer learning, category and review the
+  recent research works based on the techniques used in deep transfer
+  learning.%
+    }
+    \field{note}{arXiv: 1808.01974}
+    \field{title}{A {Survey} on {Deep} {Transfer} {Learning}}
+    \verb{url}
+    \verb http://arxiv.org/abs/1808.01974
+    \endverb
+    \verb{file}
+    \verb Tan et al. - 2018 - A Survey on Deep Transfer Learning:/home/knork/Zo
+    \verb tero/storage/FPGC7N74/Tan et al. - 2018 - A Survey on Deep Transfer L
+    \verb earning:application/pdf
+    \endverb
+    \field{journaltitle}{arXiv:1808.01974 [cs, stat]}
+    \field{annotation}{%
+    Comment: The 27th International Conference on Artificial Neural Networks
+  (ICANN 2018)%
+    }
+    \field{month}{08}
+    \field{year}{2018}
+    \field{urlday}{08}
+    \field{urlmonth}{10}
+    \field{urlyear}{2020}
+  \endentry
+
+  \entry{tensorflow_how_2020}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=T}{%
+         family={Tensorflow},
+         familyi={T\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{T1}
+    \strng{fullhash}{T1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Ten20}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{abstract}{%
+    The TensorFlow blog contains regular news from the TensorFlow team and the
+  community, with articles on Python, TensorFlow.js, TF Lite, TFX, and more.%
+    }
+    \field{title}{How {Hugging} {Face} achieved a 2x performance boost for
+  {Question} {Answering} with {DistilBERT} in {Node}.js}
+    \verb{url}
+    \verb https://blog.tensorflow.org/2020/05/how-hugging-face-achieved-2x-perf
+    \verb ormance-boost-question-answering.html
+    \endverb
+    \verb{file}
+    \verb Snapshot:/home/knork/Zotero/storage/NP58BA56/how-hugging-face-achieve
+    \verb d-2x-performance-boost-question-answering.html:text/html
+    \endverb
+    \field{month}{05}
+    \field{year}{2020}
+    \field{urlday}{08}
+    \field{urlmonth}{10}
+    \field{urlyear}{2020}
+  \endentry
+\enddatalist
+\endinput

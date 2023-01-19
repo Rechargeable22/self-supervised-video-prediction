@@ -1,0 +1,15 @@
+/venv/
+.idea*
+/excercise/exercise3/.ipynb_checkpoints/
+/excercise/exercise3/data/
+excercise/.DS_Store
+excercise/data/
+excercise/exercise3/checkpoints/
+excercise/exercise3/cifar-10-batches-py/
+excercise/exercise3/cifar-10-python.tar.gz
+excercise/exercise3/lightning_logs/
+excercise/exercise4/data/
+project/__pycache__/
+project/data/
+
+/project/model_checkpoints/one_frame.chkp
