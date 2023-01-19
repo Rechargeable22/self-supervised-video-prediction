@@ -40,4 +40,4 @@ length.
 
 ![Sample predictions](readme_images/samples_2.png)
 
-For more information, please refer to the seminarreport.pdf.
+For more information, please refer to the full [report](seminarreport.pdf).
