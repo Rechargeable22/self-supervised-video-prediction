@@ -10,6 +10,5 @@ excercise/exercise3/cifar-10-python.tar.gz
 excercise/exercise3/lightning_logs/
 excercise/exercise4/data/
 project/__pycache__/
-project/data/
 
 /project/model_checkpoints/one_frame.chkp
